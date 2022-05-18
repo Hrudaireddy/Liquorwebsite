@@ -24,6 +24,19 @@ FRONT END:
 BACK END:
 	NODEJS
 	MYSQL
+	
+How to run the code :
+
+First install nodejs and mysql
+
+1)Download zip file from github.
+2)Extract file from downloads.
+3)open the code in visual studio code and run in terminal.
+4)Run the command "npm run dev" in terminal.
+5)Server will be connected on port 3000 Open any local browser automatically
+6)type "localhost:3000" Then the main registration page will be poped up.
+7)And you're all set to go.
+
   
   ER Diagram :
 ![ERD](https://user-images.githubusercontent.com/46043255/168947848-585b86aa-4a09-4eac-80be-f132a800a4bf.png)
